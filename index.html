@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <link rel="icon" href="data:," />
+  <title>消消乐</title>
+  <link rel="stylesheet" href="/src/styles.css" />
+</head>
+<body>
+  <div id="game"></div>
+  <div id="op-video" class="op-video hidden">
+    <video id="op-video-el" playsinline preload="metadata"></video>
+    <div id="op-loading" class="op-loading hidden">正在加载片尾 / LOADING</div>
+    <button id="op-skip" class="op-skip hidden">跳过 / SKIP</button>
+  </div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

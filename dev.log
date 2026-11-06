@@ -1,0 +1,86 @@
+
+> xiaoxiaole@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m448[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.160:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.66.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.254.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m18:39:30[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/ui/digits.js[22m
+[2m18:41:07[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m18:41:12[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.js[22m
+[2m18:42:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/GameScene.js[22m
+[2m18:43:56[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/BootScene.js[22m
+[2m18:44:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/BootScene.js[22m
+[2m18:44:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/GameScene.js[22m
+[2m18:51:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/asset-manifest.js[22m
+[2m18:51:41[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m18:55:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m18:56:00[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m18:56:04[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m18:56:08[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m18:58:42[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m18:58:45[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m19:01:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m19:01:33[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m19:01:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.js[22m
+[2m19:09:58[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:10:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:10:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:11:32[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:11:37[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:11:41[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:15:12[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/ui/settings.js[22m
+[2m19:15:18[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:18:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/audio.js[22m
+[2m19:18:08[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m19:19:41[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/LevelSelectScene.js[22m
+[2m19:20:36[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/ui/settings.js[22m
+[2m19:23:55[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m19:23:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m19:24:04[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m19:26:53[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/config.js[22m
+[2m19:27:01[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:27:09[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:27:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:27:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:27:39[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/data/config.js[22m
+[2m19:30:56[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/GameScene.js[22m
+[2m19:31:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:31:08[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:31:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:31:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:34:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/ui/digits.js[22m
+[2m19:34:41[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:34:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:34:52[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:34:57[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:35:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:35:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:39:40[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:39:45[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:39:51[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:39:56[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:40:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:41:17[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:44:17[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:44:22[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:47:36[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:47:41[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:47:46[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:53:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/ui/digits.js[22m
+[2m19:54:05[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:54:10[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:55:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m19:55:49[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/UIScene.js[22m
+[2m20:01:17[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/GameScene.js[22m
+[2m20:03:32[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/scenes/GameScene.js[22m
+[2m20:13:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m20:13:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m20:13:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/op-video.js[22m
+[2m20:13:57[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/op-video.js[22m
+[2m20:16:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/app/op-video.js[22m
